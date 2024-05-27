@@ -12,7 +12,13 @@ meme_dict = {
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
 
 
-if word in meme_dict.keys():
-    # Kelime eşleşiyorsa ne yapmalıyız?
+if word in meme_dict.keys(1):
+    print:meme_dict.key(1);
+if word in meme_dict.keys(2):
+    print:meme_dictkey(2);
+if word in meme_dict.keys(3):
+    print:meme_dictkey(3);
+if word in meme_dict.keys(4):
+    print:meme_dictkey(4);
 else:
-    # Kelime eşleşmiyorsa ne yapmalıyız?
+    print("yanlış yazdın");
